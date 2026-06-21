@@ -8,6 +8,11 @@ A premium, custom-built web application designed for ultra-fast, real-time image
 
 Z-Image Turbo Web UI brings high-speed local AI image generation to an intuitive, interactive web interface. By integrating a headless instance of ComfyUI directly into a custom FastAPI backend, the application minimizes execution overhead and allows real-time generation feedback, VRAM caching, and variation tracking.
 
+### 🧠 Model Capabilities
+*   **High-Speed, Few-Step Inference**: Produces sharp, detailed image outputs in just 3-10 steps.
+*   **Uncensored Generation Support**: The core model operates without restrictive safety filters on the local pipeline, giving users full artistic freedom to generate uncensored images based on their exact prompt instructions (safety/content filters are entirely user-managed through custom negative prompts).
+*   **Diverse Aspect Ratios**: Natively supports multiple dimensions for landscape, portrait, and square rendering.
+
 ### 🛠️ Technology Stack
 *   **Frontend**: React (v18), Vite, Lucide React (for premium icons), Vanilla CSS (glassmorphic styling with dark mode tokens).
 *   **Backend**: FastAPI, PyTorch (CUDA-accelerated), Uvicorn, Pydantic (data validation).

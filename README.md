@@ -34,8 +34,9 @@ Z-Image Turbo Web UI brings high-speed local AI image generation to an intuitive
 *   ♻️ **One-Click Parameters Reuse**: Restore all configuration parameters (prompt, negative prompt, steps, seed, aspect ratio, guidance scale) of a historical image with a single click.
 *   📥 **Quick Actions**: Download or permanently delete generated images (which dynamically manages variation promotions) directly from the UI.
 *   🔋 **Memory Optimization**: Automatically triggers garbage collection and clears CUDA cache between runs to maintain a low VRAM footprint.
-<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/961dd9c8-aeb6-4fda-9877-f6e4bf1b0b43" />
 
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/6ae11c9c-2609-4040-b958-94507a1bc74e" />
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/961dd9c8-aeb6-4fda-9877-f6e4bf1b0b43" />
 <img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/df941d6a-8451-407e-815e-316e6d906b16" />
 
 ---
